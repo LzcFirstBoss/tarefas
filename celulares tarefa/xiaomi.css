@@ -1,0 +1,59 @@
+.box{
+    background-color: white;
+    border-radius: 2px;
+    width: 50%;
+    position: absolute;
+    left: 400px;
+    top: 25%;
+}
+
+.item{
+    color: black;
+}
+
+
+.box h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    left: 400px;
+    top: 5%;
+}
+
+.box p{
+    position: absolute;
+    left: 400px;
+    top: 35%;
+    color: gray;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
+
+.box h2{
+    position: absolute;
+    left: 400px;
+    top: 25%;
+    font-size: 30px;
+    color: rgb(187, 187, 187);
+}
+
+.box h3{
+    position: absolute;
+    left: 400px;
+    top: 23%;
+    font-size: 15px;
+    color: rgb(219, 219, 219); 
+}
+
+.box button{
+    color: white;
+    background-color: #59c00B;
+    border-radius: 3px;
+    width: 170px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    left: 450px;
+    top: 65%;
+}

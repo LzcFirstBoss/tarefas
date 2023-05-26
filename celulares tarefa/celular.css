@@ -1,0 +1,107 @@
+#iphone{
+    background-color: white;
+    width: 80%;
+    position: absolute;
+    left: 150px;
+    top: 15%;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(131, 131, 131);    
+}
+
+#iphone h1{
+    font-size: 20px;
+    position: absolute;
+    top: 20%;
+    left: 150px;
+    color: black;
+}
+
+#iphone h3{
+    font-size: 20px;
+    position: absolute;
+    top: 40%;
+    left: 150px;
+    color: rgb(187, 187, 187);
+}
+
+#iphone h2{
+    font-size: 30px;
+    position: absolute;
+    top: 55%;
+    left: 150px;
+    color: gray;
+}
+
+#motorola{
+    background-color: white;
+    width: 80%;
+    position: absolute;
+    left: 150px;
+    top: 37%;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(131, 131, 131);    
+}
+
+#motorola h1{
+    font-size: 20px;
+    position: absolute;
+    top: 20%;
+    left: 150px;
+    color: black;  
+}
+
+#motorola h2{
+    font-size: 30px;
+    position: absolute;
+    top: 55%;
+    left: 150px;
+    color: gray;
+}
+
+#motorola h3{
+    font-size: 20px;
+    position: absolute;
+    top: 40%;
+    left: 150px;
+    color: rgb(187, 187, 187);
+}
+
+#xiaome{
+    background-color: white;
+    width: 80%;
+    position: absolute;
+    left: 150px;
+    top: 62%;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(131, 131, 131); 
+}
+
+#xiaome h1{
+    font-size: 20px;
+    position: absolute;
+    top: 20%;
+    left: 150px;
+    color: black; 
+}
+
+#xiaome h2{
+    font-size: 30px;
+    position: absolute;
+    top: 55%;
+    left: 150px;
+    color: gray;
+}
+
+#xiaome h3{
+    font-size: 20px;
+    position: absolute;
+    top: 40%;
+    left: 150px;
+    color: rgb(187, 187, 187);
+}
